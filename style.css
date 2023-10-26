@@ -622,10 +622,6 @@ video {
   max-width: 1500px;
 }
 
-.max-w-\[1300px\] {
-  max-width: 1300px;
-}
-
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
@@ -1029,10 +1025,5 @@ video {
   .\32xl\:mx-\[110px\] {
     margin-left: 110px;
     margin-right: 110px;
-  }
-
-  .\32xl\:mx-2 {
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
   }
 }
